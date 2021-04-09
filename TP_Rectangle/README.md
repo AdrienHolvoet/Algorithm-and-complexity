@@ -1,0 +1,4 @@
+## ACT_HOLVOET_ADRIEN
+Ce projet contiendra le rendu de tous les tps d'ACT. Il y aura un sous-répertoire pour chaque TP qui doit être évalué. Comme par exemple le 1er qui est "TP2_Rectangle".  Chaque sous-répertoire contiendra un fichier RAPPORT.md où se tiendront les explications de ce qui a été fait et les réponses aux différentes questions.
+
+Tous les sous-répertoires seront des projets en Java, il suffira donc de cloner le répertoire principal qui est #ACT_HOLVOET_ADRIEN. Puis dans Eclipse, il faudra cliquer sur Open Projects From File System, sélectionner le sous-répertoire que l'on souhaite Run (Par exemple: TP2_Rectangle) et  lancer la class main.java du projet Java ouvert en cliquant sur Run As Java Application.
